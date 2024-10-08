@@ -1,6 +1,8 @@
 # Make a new project in Ximera
 
-Fork this repository to create a new Ximera project.
+Fork this repository, with a proper name of your choice, to create a new Ximera project.
+
+It contains some default settings to get started.
 
 
 ## License
